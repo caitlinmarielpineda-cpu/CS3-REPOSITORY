@@ -17,7 +17,7 @@ class Tray:
 
 tray = Tray()
 
-print("Tray contains 5 beakers.")
+print("There are five beakers.")
 print("Beaker 1:", tray.beaker1.capacity, "mL")
 print("Beaker 2:", tray.beaker2.capacity, "mL")
 print("Beaker 3:", tray.beaker3.capacity, "mL")
@@ -26,4 +26,4 @@ print("Beaker 5:", tray.beaker5.capacity, "mL")
 
 del tray
 
-print("The tray is deleted, the 5 beakers is now gone")
+print("Beakers not detected. Tray has been deleted.")
