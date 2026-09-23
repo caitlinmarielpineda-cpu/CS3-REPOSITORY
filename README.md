@@ -4,5 +4,5 @@
 
 
 <br> **Sample Codes:**
-<br> Car Sample Code: 
-<br> Tusok-tusok Sample Code:
+<br> Car Sample Code: https://github.com/caitlinmarielpineda-cpu/CS3-REPOSITORY/blob/main/carperson2.py
+<br> Tusok-tusok Sample Code: 
